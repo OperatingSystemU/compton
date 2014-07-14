@@ -1,0 +1,8 @@
+To Do:
+Test packages with compton for conflicts and poor asthetics and have it so on downloading packages the packages with conflicts append compton config with excluding them from conflicting actions such as shadow effect
+Integrate Compton with Xfwm4 as default integrated compositor 
+Optimize to XFCE4
+Utilize in similar style to cairo dock for dock effects on icons. Add said effects and integrate them with panel
+Add a few effects extra
+Better GUI for tweaking and controling as well as integration of the GUI in XFCE4 settings
+Bug fixing
